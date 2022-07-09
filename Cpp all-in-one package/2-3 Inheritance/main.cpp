@@ -45,7 +45,7 @@ public:
 	int num;
 };
 
-class Derived : public Base, public Base2	// 다중 상속
+class Derived2 : public Base, public Base2	// 다중 상속
 {
 public:
 	void print()
