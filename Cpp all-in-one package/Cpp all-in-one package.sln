@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-3 Inheritance", "2-3 Inhe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-4 Cast", "2-4 Cast\2-4 Cast.vcxproj", "{9372524F-7868-4D14-B0A9-674F4D304E7A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-5 Exception", "2-5 Exception\2-5 Exception.vcxproj", "{B6ADB9DC-0632-4D30-A544-5E1B3F78F173}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{9372524F-7868-4D14-B0A9-674F4D304E7A}.Release|x64.Build.0 = Release|x64
 		{9372524F-7868-4D14-B0A9-674F4D304E7A}.Release|x86.ActiveCfg = Release|Win32
 		{9372524F-7868-4D14-B0A9-674F4D304E7A}.Release|x86.Build.0 = Release|Win32
+		{B6ADB9DC-0632-4D30-A544-5E1B3F78F173}.Debug|x64.ActiveCfg = Debug|x64
+		{B6ADB9DC-0632-4D30-A544-5E1B3F78F173}.Debug|x64.Build.0 = Debug|x64
+		{B6ADB9DC-0632-4D30-A544-5E1B3F78F173}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6ADB9DC-0632-4D30-A544-5E1B3F78F173}.Debug|x86.Build.0 = Debug|Win32
+		{B6ADB9DC-0632-4D30-A544-5E1B3F78F173}.Release|x64.ActiveCfg = Release|x64
+		{B6ADB9DC-0632-4D30-A544-5E1B3F78F173}.Release|x64.Build.0 = Release|x64
+		{B6ADB9DC-0632-4D30-A544-5E1B3F78F173}.Release|x86.ActiveCfg = Release|Win32
+		{B6ADB9DC-0632-4D30-A544-5E1B3F78F173}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
